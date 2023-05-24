@@ -22,4 +22,3 @@
   <img aling="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-![snake gif](https://github.com/Bixpo/Bixpo/blob/output/github-contribution-grid-snake.svg)

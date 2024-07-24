@@ -4,6 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-bispo-684b86238/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/bixpo_bixpo)
 
+
 ![BiXP0 GitHub stats](https://github-readme-stats.vercel.app/api?username=Bixpo&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bixpo&hide=javascript,html)](https://github.com/Bixpo/github-readme-stats)
 
